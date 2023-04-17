@@ -1,106 +1,106 @@
-,year,book,author
-0,1918,His Family,Ernest Poole
-1,1919,The Magnificent Ambersons,Booth Tarkington
-2,1920,None awarded,None awarded
-3,1921,The Age of Innocence,Edith Wharton
-4,1922,Alice Adams,Booth Tarkington
-5,1923,One of Ours,Willa Cather
-6,1924,The Able McLaughlins,Margaret Wilson
-7,1925,So Big,Edna Ferber
-8,1926,Arrowsmith,Sinclair Lewis
-9,1927,Early Autumn,Louis Bromfield
-10,1928,The Bridge of San Luis Rey,Thornton Wilder
-11,1929,Scarlet Sister Mary,Julia Peterkin
-12,1930,Laughing Boy,Oliver La Farge
-13,1931,Years of Grace,Margaret Ayer Barnes
-14,1932,The Good Earth,Pearl S. Buck
-15,1933,The Store,T. S. Stribling
-16,1934,Lamb in His Bosom,Caroline Pafford Miller
-17,1935,Now in November,Josephine Johnson
-18,1936,Honey in the Horn,H. L. Davis
-19,1937,Gone with the Wind,Margaret Mitchell
-20,1938,The Late George Apley,John P. Marquand
-21,1939,The Yearling,Marjorie Kinnan Rawlings
-22,1940,The Grapes of Wrath,John Steinbeck
-23,1941,None awarded,None awarded
-24,1942,In This Our Life,Ellen Glasgow
-25,1943,Dragon's Teeth,Upton Sinclair
-26,1944,Journey in the Dark,Martin Flavin
-27,1945,A Bell for Adano,John Hersey
-28,1946,None awarded,None awarded
-29,1947,All the King's Men,Robert Penn Warren
-30,1948,Tales of the South Pacific,James A. Michener
-31,1949,Guard of Honor,James Gould Cozzens
-32,1950,The Way West,A. B. Guthrie Jr.
-33,1951,The Town,Conrad Richter
-34,1952,The Caine Mutiny,Herman Wouk
-35,1953,The Old Man and the Sea,Ernest Hemingway
-36,1954,None awarded,None awarded
-37,1955,A Fable,William Faulkner
-38,1956,Andersonville,MacKinlay Kantor
-39,1957,None awarded,None awarded
-40,1958,A Death in the Family,James Agee
-41,1959,The Travels of Jaimie McPheeters,Robert Lewis Taylor
-42,1960,Advise and Consent,Allen Drury
-43,1961,To Kill a Mockingbird,Harper Lee
-44,1962,The Edge of Sadness,Edwin O'Connor
-45,1963,The Reivers,William Faulkner
-46,1964,None awarded,None awarded
-47,1965,The Keepers of the House,Shirley Ann Grau
-48,1966,The Collected Stories of Katherine Anne Porter,Katherine Anne Porter
-49,1967,The Fixer,Bernard Malamud
-50,1968,The Confessions of Nat Turner,William Styron
-51,1969,House Made of Dawn,N. Scott Momaday
-52,1970,The Collected Stories of Jean Stafford,Jean Stafford
-53,1971,None awarded,None awarded
-54,1972,Angle of Repose,Wallace Stegner
-55,1973,The Optimist's Daughter,Eudora Welty
-56,1974,None awarded,None awarded
-57,1975,The Killer Angels,Michael Shaara
-58,1976,Humboldt's Gift,Saul Bellow
-59,1977,None awarded,None awarded
-60,1978,Elbow Room,James Alan McPherson
-61,1979,The Stories of John Cheever,John Cheever
-62,1980,The Executioner's Song,Norman Mailer
-63,1981,A Confederacy of Dunces,John Kennedy Toole
-64,1982,Rabbit Is Rich,John Updike
-65,1983,The Color Purple,Alice Walker
-66,1984,Ironweed,William Kennedy
-67,1985,Foreign Affairs,Alison Lurie
-68,1986,Lonesome Dove,Larry McMurtry
-69,1987,A Summons to Memphis,Peter Taylor
-70,1988,Beloved,Toni Morrison
-71,1989,Breathing Lessons,Anne Tyler
-72,1990,The Mambo Kings Play Songs of Love,Oscar Hijuelos
-73,1991,Rabbit At Rest,John Updike
-74,1992,A Thousand Acres,Jane Smiley
-75,1993,A Good Scent from a Strange Mountain,Robert Olen Butler
-76,1994,The Shipping News,Annie Proulx
-77,1995,The Stone Diaries,Carol Shields
-78,1996,Independence Day,Richard Ford
-79,1997,Martin Dressler,Steven Millhauser
-80,1998,American Pastoral,Philip Roth
-81,1999,The Hours,Michael Cunningham
-82,2000,Interpreter of Maladies,Jhumpa Lahiri
-83,2001,The Amazing Adventures of Kavalier & Clay,Michael Chabon
-84,2002,Empire Falls,Richard Russo
-85,2003,Middlesex,Jeffrey Eugenides
-86,2004,The Known World,Edward P. Jones
-87,2005,Gilead,Marilynne Robinson
-88,2006,March,Geraldine Brooks
-89,2007,The Road,Cormac McCarthy
-90,2008,The Brief Wondrous Life of Oscar Wao,Junot Díaz
-91,2009,Olive Kitteridge,Elizabeth Strout
-92,2010,Tinkers,Paul Harding
-93,2011,A Visit from the Goon Squad,Jennifer Egan
-94,2012,None awarded,None awarded
-95,2013,The Orphan Master's Son,Adam Johnson
-96,2014,The Goldfinch,Donna Tartt
-97,2015,All the Light We Cannot See,Anthony Doerr
-98,2016,The Sympathizer,Viet Thanh Nguyen
-99,2017,The Underground Railroad,Colson Whitehead
-100,2018,Less,Andrew Sean Greer
-101,2019,The Overstory,Richard Powers
-102,2020,The Nickel Boys,Colson Whitehead
-103,2021,The Night Watchman,Louise Erdrich
-104,2022,The Netanyahus: An Account of a Minor and Ultimately Even Negligible Episode in the History of a Very Famous Family,Joshua Cohen
+,year,book,author,URL
+0,1918,His Family,Ernest Poole,https://www.pulitzer.org/winners/ernest-poole
+1,1919,The Magnificent Ambersons,Booth Tarkington,https://www.pulitzer.org/winners/booth-tarkington
+2,1920,None awarded,None awarded,None awarded
+3,1921,The Age of Innocence,Edith Wharton,https://www.pulitzer.org/winners/edith-wharton
+4,1922,Alice Adams,Booth Tarkington,https://www.pulitzer.org/winners/booth-tarkington
+5,1923,One of Ours,Willa Cather,https://www.pulitzer.org/winners/willa-cather
+6,1924,The Able McLaughlins,Margaret Wilson,https://www.pulitzer.org/winners/margaret-wilson
+7,1925,So Big,Edna Ferber,https://www.pulitzer.org/winners/edna-ferber
+8,1926,Arrowsmith,Sinclair Lewis,https://www.pulitzer.org/winners/sinclair-lewis
+9,1927,Early Autumn,Louis Bromfield,https://www.pulitzer.org/winners/louis-bromfield
+10,1928,The Bridge of San Luis Rey,Thornton Wilder,https://www.pulitzer.org/winners/thornton-wilder
+11,1929,Scarlet Sister Mary,Julia Peterkin,https://www.pulitzer.org/winners/julia-peterkin
+12,1930,Laughing Boy,Oliver La Farge,https://www.pulitzer.org/winners/oliver-la-farge
+13,1931,Years of Grace,Margaret Ayer Barnes,https://www.pulitzer.org/winners/margaret-ayer-barnes
+14,1932,The Good Earth,Pearl S. Buck,https://www.pulitzer.org/winners/pearl-s.-buck
+15,1933,The Store,T. S. Stribling,https://www.pulitzer.org/winners/t.-s.-stribling
+16,1934,Lamb in His Bosom,Caroline Pafford Miller,https://www.pulitzer.org/winners/caroline-pafford-miller
+17,1935,Now in November,Josephine Johnson,https://www.pulitzer.org/winners/josephine-johnson
+18,1936,Honey in the Horn,H. L. Davis,https://www.pulitzer.org/winners/h.-l.-davis
+19,1937,Gone with the Wind,Margaret Mitchell,https://www.pulitzer.org/winners/margaret-mitchell
+20,1938,The Late George Apley,John P. Marquand,https://www.pulitzer.org/winners/john-p.-marquand
+21,1939,The Yearling,Marjorie Kinnan Rawlings,https://www.pulitzer.org/winners/marjorie-kinnan-rawlings
+22,1940,The Grapes of Wrath,John Steinbeck,https://www.pulitzer.org/winners/john-steinbeck
+23,1941,None awarded,None awarded,None awarded
+24,1942,In This Our Life,Ellen Glasgow,https://www.pulitzer.org/winners/ellen-glasgow
+25,1943,Dragon's Teeth,Upton Sinclair,https://www.pulitzer.org/winners/upton-sinclair
+26,1944,Journey in the Dark,Martin Flavin,https://www.pulitzer.org/winners/martin-flavin
+27,1945,A Bell for Adano,John Hersey,https://www.pulitzer.org/winners/john-hersey
+28,1946,None awarded,None awarded,None awarded
+29,1947,All the King's Men,Robert Penn Warren,https://www.pulitzer.org/winners/robert-penn-warren
+30,1948,Tales of the South Pacific,James A. Michener,https://www.pulitzer.org/winners/james-a.-michener
+31,1949,Guard of Honor,James Gould Cozzens,https://www.pulitzer.org/winners/james-gould-cozzens
+32,1950,The Way West,A. B. Guthrie Jr.,https://www.pulitzer.org/winners/a.-b.-guthrie-jr.
+33,1951,The Town,Conrad Richter,https://www.pulitzer.org/winners/conrad-richter
+34,1952,The Caine Mutiny,Herman Wouk,https://www.pulitzer.org/winners/herman-wouk
+35,1953,The Old Man and the Sea,Ernest Hemingway,https://www.pulitzer.org/winners/ernest-hemingway
+36,1954,None awarded,None awarded,None awarded
+37,1955,A Fable,William Faulkner,https://www.pulitzer.org/winners/william-faulkner
+38,1956,Andersonville,MacKinlay Kantor,https://www.pulitzer.org/winners/mackinlay-kantor
+39,1957,None awarded,None awarded,None awarded
+40,1958,A Death in the Family,James Agee,https://www.pulitzer.org/winners/james-agee
+41,1959,The Travels of Jaimie McPheeters,Robert Lewis Taylor,https://www.pulitzer.org/winners/robert-lewis-taylor
+42,1960,Advise and Consent,Allen Drury,https://www.pulitzer.org/winners/allen-drury
+43,1961,To Kill a Mockingbird,Harper Lee,https://www.pulitzer.org/winners/harper-lee
+44,1962,The Edge of Sadness,Edwin O'Connor,https://www.pulitzer.org/winners/edwin-o'connor
+45,1963,The Reivers,William Faulkner,https://www.pulitzer.org/winners/william-faulkner
+46,1964,None awarded,None awarded,None awarded
+47,1965,The Keepers of the House,Shirley Ann Grau,https://www.pulitzer.org/winners/shirley-ann-grau
+48,1966,The Collected Stories of Katherine Anne Porter,Katherine Anne Porter,https://www.pulitzer.org/winners/katherine-anne-porter
+49,1967,The Fixer,Bernard Malamud,https://www.pulitzer.org/winners/bernard-malamud
+50,1968,The Confessions of Nat Turner,William Styron,https://www.pulitzer.org/winners/william-styron
+51,1969,House Made of Dawn,N. Scott Momaday,https://www.pulitzer.org/winners/n.-scott-momaday
+52,1970,The Collected Stories of Jean Stafford,Jean Stafford,https://www.pulitzer.org/winners/jean-stafford
+53,1971,None awarded,None awarded,None awarded
+54,1972,Angle of Repose,Wallace Stegner,https://www.pulitzer.org/winners/wallace-stegner
+55,1973,The Optimist's Daughter,Eudora Welty,https://www.pulitzer.org/winners/eudora-welty
+56,1974,None awarded,None awarded,None awarded
+57,1975,The Killer Angels,Michael Shaara,https://www.pulitzer.org/winners/michael-shaara
+58,1976,Humboldt's Gift,Saul Bellow,https://www.pulitzer.org/winners/saul-bellow
+59,1977,None awarded,None awarded,None awarded
+60,1978,Elbow Room,James Alan McPherson,https://www.pulitzer.org/winners/james-alan-mcpherson
+61,1979,The Stories of John Cheever,John Cheever,https://www.pulitzer.org/winners/john-cheever
+62,1980,The Executioner's Song,Norman Mailer,https://www.pulitzer.org/winners/norman-mailer
+63,1981,A Confederacy of Dunces,John Kennedy Toole,https://www.pulitzer.org/winners/john-kennedy-toole
+64,1982,Rabbit Is Rich,John Updike,https://www.pulitzer.org/winners/john-updike
+65,1983,The Color Purple,Alice Walker,https://www.pulitzer.org/winners/alice-walker
+66,1984,Ironweed,William Kennedy,https://www.pulitzer.org/winners/william-kennedy
+67,1985,Foreign Affairs,Alison Lurie,https://www.pulitzer.org/winners/alison-lurie
+68,1986,Lonesome Dove,Larry McMurtry,https://www.pulitzer.org/winners/larry-mcmurtry
+69,1987,A Summons to Memphis,Peter Taylor,https://www.pulitzer.org/winners/peter-taylor
+70,1988,Beloved,Toni Morrison,https://www.pulitzer.org/winners/toni-morrison
+71,1989,Breathing Lessons,Anne Tyler,https://www.pulitzer.org/winners/anne-tyler
+72,1990,The Mambo Kings Play Songs of Love,Oscar Hijuelos,https://www.pulitzer.org/winners/oscar-hijuelos
+73,1991,Rabbit At Rest,John Updike,https://www.pulitzer.org/winners/john-updike
+74,1992,A Thousand Acres,Jane Smiley,https://www.pulitzer.org/winners/jane-smiley
+75,1993,A Good Scent from a Strange Mountain,Robert Olen Butler,https://www.pulitzer.org/winners/robert-olen-butler
+76,1994,The Shipping News,Annie Proulx,https://www.pulitzer.org/winners/annie-proulx
+77,1995,The Stone Diaries,Carol Shields,https://www.pulitzer.org/winners/carol-shields
+78,1996,Independence Day,Richard Ford,https://www.pulitzer.org/winners/richard-ford
+79,1997,Martin Dressler,Steven Millhauser,https://www.pulitzer.org/winners/steven-millhauser
+80,1998,American Pastoral,Philip Roth,https://www.pulitzer.org/winners/philip-roth
+81,1999,The Hours,Michael Cunningham,https://www.pulitzer.org/winners/michael-cunningham
+82,2000,Interpreter of Maladies,Jhumpa Lahiri,https://www.pulitzer.org/winners/jhumpa-lahiri
+83,2001,The Amazing Adventures of Kavalier & Clay,Michael Chabon,https://www.pulitzer.org/winners/michael-chabon
+84,2002,Empire Falls,Richard Russo,https://www.pulitzer.org/winners/richard-russo
+85,2003,Middlesex,Jeffrey Eugenides,https://www.pulitzer.org/winners/jeffrey-eugenides
+86,2004,The Known World,Edward P. Jones,https://www.pulitzer.org/winners/edward-p.-jones
+87,2005,Gilead,Marilynne Robinson,https://www.pulitzer.org/winners/marilynne-robinson
+88,2006,March,Geraldine Brooks,https://www.pulitzer.org/winners/geraldine-brooks
+89,2007,The Road,Cormac McCarthy,https://www.pulitzer.org/winners/cormac-mccarthy
+90,2008,The Brief Wondrous Life of Oscar Wao,Junot Díaz,https://www.pulitzer.org/winners/junot-díaz
+91,2009,Olive Kitteridge,Elizabeth Strout,https://www.pulitzer.org/winners/elizabeth-strout
+92,2010,Tinkers,Paul Harding,https://www.pulitzer.org/winners/paul-harding
+93,2011,A Visit from the Goon Squad,Jennifer Egan,https://www.pulitzer.org/winners/jennifer-egan
+94,2012,None awarded,None awarded,None awarded
+95,2013,The Orphan Master's Son,Adam Johnson,https://www.pulitzer.org/winners/adam-johnson
+96,2014,The Goldfinch,Donna Tartt,https://www.pulitzer.org/winners/donna-tartt
+97,2015,All the Light We Cannot See,Anthony Doerr,https://www.pulitzer.org/winners/anthony-doerr
+98,2016,The Sympathizer,Viet Thanh Nguyen,https://www.pulitzer.org/winners/viet-thanh-nguyen
+99,2017,The Underground Railroad,Colson Whitehead,https://www.pulitzer.org/winners/colson-whitehead
+100,2018,Less,Andrew Sean Greer,https://www.pulitzer.org/winners/andrew-sean-greer
+101,2019,The Overstory,Richard Powers,https://www.pulitzer.org/winners/richard-powers
+102,2020,The Nickel Boys,Colson Whitehead,https://www.pulitzer.org/winners/colson-whitehead
+103,2021,The Night Watchman,Louise Erdrich,https://www.pulitzer.org/winners/louise-erdrich
+104,2022,The Netanyahus: An Account of a Minor and Ultimately Even Negligible Episode in the History of a Very Famous Family,Joshua Cohen,https://www.pulitzer.org/winners/joshua-cohen
