@@ -7,44 +7,43 @@ Albert Lleida, April 2023
 
 This is a data-driven analysis and predictive modeling of book ratings based on the "Best Books Ever" dataset from Goodreads. The goal of this project was to explore the dataset, develop a predictive model for book ratings, and build a book recommender system based on clusters.
 
-Overview
+### Overview
+
 The Goodreads Best Books Ever dataset includes information about books' titles, authors, publication years, genres, and ratings. The dataset also includes information on user reviews, which were not used in this project.
 
 The first part of the project focused on exploring the dataset and developing a predictive model for book ratings. The second part focused on building a book recommender system using clusters.
 
-Methodology
-Data Retrieval
-The data was retrieved from the "Best Books Ever" dataset by Goodreads, which can be found on Kaggle here.
+Part 1: Predictive Modeling
+In the first part of the project, a predictive model for book ratings was developed using a Linear Regression model. The data was split into training and testing sets, and features such as book author, publication year, and genre were used to predict book ratings. The model's performance was evaluated using various error metrics such as R-squared, RMSE, and MAE.
 
-Exploratory Data Analysis
-The dataset was explored using Python and various libraries such as Pandas, NumPy, Seaborn, and Matplotlib. The exploratory data analysis included cleaning the data, visualizing the data, and identifying patterns and trends in the data.
+After obtaining initial scores, dimensionality reduction techniques such as PCA and Recursive Feature Elimination (RFE) were applied. Additionally, a Random Forest Regressor model was developed to improve the predictive performance of the model.
 
-Predictive Modeling
-A predictive model for book ratings was developed using a Linear Regression model. The data was split into training and testing sets, and features such as book author, publication year, and genre were used to predict book ratings. The model's performance was evaluated using various error metrics such as R-squared, RMSE, and MAE.
+Part 2: Book Recommender
+In the second part of the project, a book recommender system was developed based on book clusters. K-means clustering was applied to group books with similar attributes such as author, genre, and publication year. Books were then recommended based on their cluster membership.
 
-Book Recommender System
-A book recommender system was built using KMeans clustering. The data was clustered based on book features such as genre and publication year. A user can input a book title, and the system recommends books from the same cluster as the input book.
+Part 3: Data Collection
+To expand the dataset, a web scraping script was developed to retrieve data on Pulitzer Prize-winning novels from Wikipedia. This dataset was then merged with the original dataset to improve the clustering and recommendation processes.
 
-File Descriptions
-The project files are organized as follows:
-
-data: folder containing the dataset used in this project.
-books.ipynb: Jupyter notebook containing the code for data cleaning, exploratory data analysis, predictive modeling, and book recommender system.
-book_recommender.py: Python script containing the code for the book recommender system.
-wikipedia_scraper.py: Python script for web scraping Pulitzer Prize winners of fiction and saving them to a CSV file.
 Technologies Used
 Python
 Jupyter Notebook
 Scikit-learn
 Pandas
-NumPy
 Matplotlib
 Seaborn
-How to Use
-Download the project files.
-Install the required libraries listed in the requirements.txt file.
-Open the books.ipynb notebook in Jupyter Notebook and run the code cells to reproduce the analysis and models.
-Use the book_recommender.py script to get book recommendations based on a given book title. Run the script and input a book title when prompted.
-Use the wikipedia_scraper.py script to scrape Pulitzer Prize winners of fiction from Wikipedia and save them to a CSV file.
+BeautifulSoup
+Requests
+Repository Structure
+Notebooks: This folder contains Jupyter Notebooks with the code for the project, including data cleaning, exploratory data analysis, modeling, and evaluation.
+
+Data: This folder contains the original dataset retrieved from Kaggle, as well as the dataset of Pulitzer Prize-winning novels retrieved from Wikipedia.
+
+Images: This folder contains images used in the Jupyter Notebooks.
+
 Conclusion
-This project successfully developed a predictive model for book ratings and a book recommender system based on clusters. The book recommender system can be used to provide personalized book recommendations to users based on their preferences.
+This project demonstrated how data-driven techniques can be used to gain insights into book ratings and develop a predictive model. The model developed in this project can be used to predict the ratings of new books based on their features. The book recommender system can help users discover new books based on their preferences, and the addition of the Pulitzer Prize-winning novels dataset improved the clustering and recommendation processes.
+
+Additional Information
+Kaggle dataset source: (https://rb.gy/axmdc)
+Wikipedia Pulitzer Prize-winning novels scraping script: (https://en.wikipedia.org/wiki/Pulitzer_Prize_for_Fiction)
+Presentation with Canvas: https://rb.gy/mclr1
