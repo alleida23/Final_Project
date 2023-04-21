@@ -26,13 +26,21 @@ In the third part of the project, a book recommender system was developed based 
 A web scraping script was developed to retrieve data on Pulitzer Prize-winning novels from Wikipedia.
 
 ### Technologies Used
+
 Python
+
 Jupyter Notebook
+
 Scikit-learn
+
 Pandas
+
 Matplotlib
+
 Seaborn
+
 BeautifulSoup
+
 Requests
 
 ### Repository Structure
