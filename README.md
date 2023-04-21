@@ -44,5 +44,7 @@ This project demonstrated how data-driven techniques can be used to gain insight
 
 ### Additional Information
 Kaggle dataset source: (https://rb.gy/axmdc)
+
 Wikipedia Pulitzer Prize-winning novels scraping script: (https://en.wikipedia.org/wiki/Pulitzer_Prize_for_Fiction)
+
 Presentation with Canvas: https://rb.gy/mclr1
