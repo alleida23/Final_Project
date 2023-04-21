@@ -1,6 +1,7 @@
 # Unveiling Goodreads's "Best Books Ever":
 ## Data-Driven Analysis and Predictive Modeling of Book Ratings
-Albert Lleida, Iron Hack, April 2023
+    * Albert Lleida Estival
+    * Iron Hack, April - 2023
 
 This is a data-driven analysis and predictive modeling of book ratings based on the "Best Books Ever" dataset from Goodreads. The goal of this project was to explore the dataset, develop a predictive model for book ratings and build a book recommender system based on clusters.
 
