@@ -22,7 +22,7 @@ After obtaining initial scores, dimensionality reduction techniques such as PCA 
 ### Part 3: Book Recommender
 In the third part of the project, a book recommender system was developed based on book clusters. K-means clustering was applied to group books with similar attributes such as author, genre, and publication year. Books were then recommended based on their cluster membership.
 
-### Part 4: Data Collection
+### Part 4: Web Scraping
 A web scraping script was developed to retrieve data on Pulitzer Prize-winning novels from Wikipedia.
 
 ### Technologies Used
