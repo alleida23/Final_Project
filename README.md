@@ -7,21 +7,21 @@ This is a data-driven analysis and predictive modeling of book ratings based on 
 ### Overview
 The Goodreads "Best Books Ever" dataset includes information about books' titles, authors, publication years, genres, and ratings, amongst others. 'Genres' and 'awards' unique values were extracted and used as new key predictors.
 
-#### Part 0: Data Cleaning and Wrangling
+### Part 0: Data Cleaning and Wrangling
 The first part of the project involved cleaning and wrangling the dataset to prepare it for analysis. This included handling missing values, removing duplicates, and converting data types.
 
-#### Part 1: Exploratory Data Analysis
+### Part 1: Exploratory Data Analysis
 In this part, exploratory data analysis (EDA) was performed to gain insights into the dataset. Data visualization techniques were used to analyze the relationships between the different features and the book ratings. Correlation analysis was also performed to identify the features that have the strongest relationships with book ratings.
 
-#### Part 2: Predictive Modeling
+### Part 2: Predictive Modeling
 In the second part of the project, a predictive model for book ratings was developed using a Linear Regression model. The data was split into training and testing sets, and features such as book author, publication year, and genre were used to predict book ratings. The model's performance was evaluated using various error metrics such as R-squared, RMSE, and MAE.
 
 After obtaining initial scores, dimensionality reduction techniques such as PCA and Recursive Feature Elimination (RFE) were applied. Additionally, a Random Forest Regressor model was developed to improve the predictive performance of the model.
 
-#### Part 3: Book Recommender
+### Part 3: Book Recommender
 In the third part of the project, a book recommender system was developed based on book clusters. K-means clustering was applied to group books with similar attributes such as author, genre, and publication year. Books were then recommended based on their cluster membership.
 
-#### Part 4: Data Collection
+### Part 4: Data Collection
 A web scraping script was developed to retrieve data on Pulitzer Prize-winning novels from Wikipedia.
 
 ### Technologies Used
